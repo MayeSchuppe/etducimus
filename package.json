@@ -1,0 +1,24 @@
+{
+  "name": "etducimus",
+  "version": "1.0.0",
+  "description": "Various types for better typescripting",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "keywords": [
+    "types",
+    "perferendis"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MayeSchuppe/etducimus.git"
+  },
+  "author": "DexterKonopelski",
+  "license": "GPL-3.0-only",
+  "devDependencies": {
+    "barrelsby": "^2.2.0",
+    "typescript": "^3.9.7"
+  },
+  "bugs": {
+    "url": "https://github.com/MayeSchuppe/etducimus.git/issues"
+  }
+}
